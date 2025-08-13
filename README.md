@@ -10,6 +10,4 @@ gcc -I/opt/X11/include saisyu.c x11winlib_db.o kbhit.o -L/opt/X11/lib -lX11 -pth
 ./a.out
 
 # 作成したmodel.stlを表示できるwebサイト
-私が作成したものではありません。
-
-https://imagetostl.com/jp/view-stl-online
+https://imagetostl.com/jp/view-stl-online (私が作成したものではありません。)
